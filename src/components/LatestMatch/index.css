@@ -1,0 +1,58 @@
+.latest-match-details-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:#0f172a;
+    padding:10px;
+    
+}
+.latest-match-team-logo{
+    width:170px;
+}
+.latest-match-team-name{
+    font-family:"Bree Serif";
+    font-size:28px;
+    color:#ffffff;
+    font-weight:bold;
+}
+.latest-match-team-date{
+    font-family:"Bree Serif";
+    font-size:26px;
+    color:#ffffff;
+    font-weight:bold;
+    
+}
+.latest-match-team-venue{
+    font-family:"Bree Serif";
+    font-size:18px;
+    color:#ffffff;
+    font-weight:bold;
+
+}
+.latest-match-team-result{
+    font-family:"Bree Serif";
+    font-size:18px;
+    color:#ffffff;
+    font-weight:bold;
+
+
+}
+.latest-match-innings-heading{
+    font-family:"Bree Serif";
+    font-size:20px;
+    color:#ffffff;
+    font-weight:bold;
+
+}
+.latest-match-innings-team{
+    font-family:"Bree Serif";
+    font-size:16px;
+    color:#ffffff;
+    font-weight:600;
+
+
+}
+.latest-match-innings-container{
+    text-align:right;
+}
+
